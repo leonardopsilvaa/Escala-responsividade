@@ -6,3 +6,7 @@ Dois botões foram adicionados na planilha para que os gráficos sejam gerados d
 
 O produto final se assemelha à imagem abaixo:
 ![image](https://github.com/leonardopsilvaa/Escala-responsividade/assets/84882866/792a97e5-bb52-480f-8a76-eba3887ec560)
+
+Ao clicar em qualquer um dos botões dentro da planilha, os gráficos abaixo são gerados em segundo plano.
+
+
