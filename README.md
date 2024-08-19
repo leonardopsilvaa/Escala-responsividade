@@ -7,7 +7,7 @@ Dois botões foram adicionados na planilha para que os gráficos sejam gerados d
 O produto final se assemelha à imagem abaixo:
 ![image](https://github.com/leonardopsilvaa/Escala-responsividade/assets/84882866/792a97e5-bb52-480f-8a76-eba3887ec560)
 
-Ao clicar em qualquer um dos botões dentro da planilha, os gráficos abaixo são gerados em segundo plano.
+Dentro da planilha, na célula A1, deixamos uma configuração para incluir o ambiente python de escolha do cliente final. Isso foi solicitado pelo próprio cliente para que possiveis alterações no futuro fossem mais fáceis para ele. Ao clicar em qualquer um dos botões dentro da planilha, os gráficos abaixo são gerados em segundo plano.
 
 
 ![grafico1_escala_responsividade](https://github.com/user-attachments/assets/141e305f-17f0-4cc2-b82c-70f9a1a07956)
