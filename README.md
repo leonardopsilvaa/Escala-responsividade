@@ -10,3 +10,14 @@ O produto final se assemelha à imagem abaixo:
 Ao clicar em qualquer um dos botões dentro da planilha, os gráficos abaixo são gerados em segundo plano.
 
 
+![grafico1_escala_responsividade](https://github.com/user-attachments/assets/141e305f-17f0-4cc2-b82c-70f9a1a07956)
+
+![grafico2_escala_responsividade](https://github.com/user-attachments/assets/1dd2650d-0428-4246-8ab6-a78e9185c7ce)
+
+![grafico5_escala_responsividade](https://github.com/user-attachments/assets/fe289407-b6d2-48dc-99f8-04471779c561)
+
+![grafico6_escala_responsividade](https://github.com/user-attachments/assets/c4d7ce6f-87fb-4eee-80bc-e231ea976d7c)
+
+![grafico3_escala_responsividade](https://github.com/user-attachments/assets/691ad6ec-b727-4cdb-8c4a-110ec6c0bf6b)
+
+![grafico4_escala_responsividade](https://github.com/user-attachments/assets/6824b333-a69a-43c9-84a5-9a45325a2fac)
